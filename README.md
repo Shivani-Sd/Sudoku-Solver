@@ -2,6 +2,8 @@ This is a small project I whipped up last night to test my algorithmic skills an
 
 While it's a simple app with minimal UI for now (think efficiency!), I'm already brainstorming some exciting optimizations and features to add.
 
+You can find a working demo of the app here https://sudoku-solver-green.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
