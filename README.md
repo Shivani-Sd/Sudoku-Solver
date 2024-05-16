@@ -1,3 +1,7 @@
+This is a small project I whipped up last night to test my algorithmic skills and guess what, I've still got it in me! It tackles partially filled Sudoku boards (currently hardcoded) and finds the solution automatically.
+
+While it's a simple app with minimal UI for now (think efficiency!), I'm already brainstorming some exciting optimizations and features to add.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
